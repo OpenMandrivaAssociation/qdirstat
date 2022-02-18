@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>qdirstat.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0</project_license>
+  <name>QDirStat</name>
+  <summary>Qt-based directory statistics</summary>
+  <description>
+    <p>
+      QDirStat is a graphical application to show where your disk space has gone
+      and to help you to clean it up.
+    </p>
+    <p>
+      This is a Qt-only port of the old Qt3/KDE3-based KDirStat, now based on the
+      latest Qt 5. It does not need any KDE libs or infrastructure. It runs on
+      every X11-based desktop on Linux, BSD and other Unix-like systems. 
+    </p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/shundhammer/qdirstat/master/screenshots/QDirStat-main-win.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/shundhammer/qdirstat/master/screenshots/QDirStat-histogram-options.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/shundhammer/qdirstat</url>
+  <url type="bugtracker">https://github.com/shundhammer/qdirstat/issues</url>
+  <update_contact>https://openmandriva.org</update_contact>
+</component>
