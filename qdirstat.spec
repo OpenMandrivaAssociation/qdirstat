@@ -1,7 +1,7 @@
 Summary:	Qt-based directory statistics
 Name:		qdirstat
-Version:	1.8
-Release:	2
+Version:	1.9
+Release:	1
 License:	GPLv2
 URL:		https://github.com/shundhammer/qdirstat
 Source0:	%{url}/archive/%{version}/%{name}-%{version}.tar.gz
