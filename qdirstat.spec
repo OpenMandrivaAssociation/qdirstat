@@ -10,6 +10,7 @@ BuildRequires:	qmake5
 BuildRequires:	pkgconfig(Qt5Core)
 BuildRequires:	pkgconfig(Qt5Gui)
 BuildRequires:	pkgconfig(Qt5Widgets)
+BuildRequires:  pkgconfig(zlib)
 BuildRequires:	appstream-util
 BuildRequires:	desktop-file-utils
 Requires:	hicolor-icon-theme
